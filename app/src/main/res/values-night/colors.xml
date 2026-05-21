@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#1A1917</color>
+    <color name="surface">#2C2C2A</color>
+    <color name="accent">#F0997B</color>
+    <color name="accent_light">#4A1B0C</color>
+    <color name="text_primary">#F1EFE8</color>
+    <color name="text_secondary">#888780</color>
+    <color name="divider">#444441</color>
+    <color name="check_unchecked">#5F5E5A</color>
+    <color name="badge_bg">#4A1B0C</color>
+</resources>
