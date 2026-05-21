@@ -31,6 +31,36 @@
 Diseñada con una estética editorial deportiva — tipografía condensada, fondo cálido, acento coral — para que abrir la app antes de entrenar se sienta bien.
 
 ---
+## Capturas de pantalla
+
+### Modo claro
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center"><img src="screenshots/imagen1.png" width="180"/><br/><sub>Push</sub></td>
+    <td align="center"><img src="screenshots/Screenshot_20260520_230621.png" width="180"/><br/><sub>Pull</sub></td>
+    <td align="center"><img src="screenshots/Screenshot_20260520_230816.png" width="180"/><br/><sub>Legs con progreso</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshots/Screenshot_20260520_230724.png" width="180"/><br/><sub>Editar rutina</sub></td>
+    <td align="center"><img src="screenshots/Screenshot_20260520_230739.png" width="180"/><br/><sub>Agregar ejercicio</sub></td>
+    <td align="center"><img src="screenshots/Screenshot_20260520_230707.png" width="180"/><br/><sub>Recordatorio</sub></td>
+  </tr>
+</table>
+</div>
+
+### Modo oscuro
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center"><img src="screenshots/Screenshot_20260520_230846.png" width="180"/><br/><sub>Dark — Legs con progreso</sub></td>
+  </tr>
+</table>
+</div>
+---
+
 
 ## Funciones
 
@@ -183,6 +213,6 @@ MIT — úsalo, modifícalo, mejóralo.
 
 <div align="center">
 
-Hecho con Kotlin y demasiado café ☕
+Hecho con Kotlin y full agua del garrafón 💧🫙
 
 </div>
